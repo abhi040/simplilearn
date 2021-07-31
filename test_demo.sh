@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Hello Simplilearn
+echo "Hello Simplilearn"
